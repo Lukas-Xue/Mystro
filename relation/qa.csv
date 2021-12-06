@@ -1,0 +1,33 @@
+﻿0,8,Question 1 Clarification,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?,2021-09-05 16:30,bSZa17FK2l
+1,8,Assignment 1 Graded,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021-10-01 7:30,A1Kcf8Z1u3
+2,8,Assignment 1 Graded,How do we setup the Yelp Server?,2021-10-01 7:30,ize3lkeNiR
+3,8,Conceptual question - relational state vs relational schema,Is there a difference between the two?,2021-09-05 10:15,Xo3aGKAsfE
+4,8,Assignment 1 Graded,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.,2021-10-15 7:25,A1Kcf8Z1u3
+5,8,HW3 Q2,Can we assume each city has a distance name?,2021-10-09 8:30,fk7USWbA60
+6,8,HW3,Are we allowed to create a tempory table to hold intermediate results?,2021-10-15 7:48,bSZa17FK2l
+7,8,Assignment 4 Graded,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021-10-01 7:30,A1Kcf8Z1u3
+8,7,A1 Tips,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.,2021-09-14 11:45,8uv1aK9btU
+9,7,Shuffle Deck,Do we have to shuffle the deck at any point?,2021-10-01 14:35,wUSNkrt2i7
+10,7,Ace value,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?,2021-10-01 19:01,AyZm6kgtLQ
+11,7,Possible legal moves,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?,2021-10-14 11:30,qBhsb9AT1D
+12,7,Filename changed after resubmission,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code. ,2021-10-16 8:37,loWO7ep40W
+13,7,Exceptions,When we throw an exception does it need to stop the program immediately?,2021-10-31 16:35,AyZm6kgtLQ
+14,6,RA operation,What does the bowtie symbol mean?,2021-02-04 3:45,qjAClhRo8T
+15,6,Midterm content,What will be covered on the midterm?,2021-04-09 19:13,I8k5HwpLlU
+16,6,SQL server,How do we install PostGresSQL on our local machine?,2021-03-21 4:28,cp5asEx6KR
+17,6,GROUP BY query,Does it matter where GROUP BY is located?,2021-03-29 4:47,AnRRwDoMFm
+18,6,Regrade request,How do we submit a regrade request for the midterm?,2021-04-25 6:10,l8Ck5AEii7
+19,6,Week 10 Prep,Canvas is not allowing me to submit the weekly prep quiz. What should I do?,2021-04-10 12:31,nlNo3Ifie2
+20,6,Week 11 Prep,Does anybody have a link to the Google Cloud Platform?,2021-04-17 12:31,fe20lUruvB
+21,6,Final content,What will be covered on the final?,2021-05-01 5:40,EIBGkZJ8LU
+22,6,Database normalization,What is the difference between 2NF and 3NF?,2021-04-26 1:32,I8k5HwpLlU
+23,5,Java IDE,Does anybody have any suggestions about a good IDE to use?,2020-09-15 6:53,8uv1aK9btU
+24,5,Runtime,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?,2020-10-13 22:39,WVztzxaqG1
+25,5,Trouble with delete,My delete in the double-ended link list isn't working. It deletes the entire list!,2020-10-28 5:19,lKOmgoDP5M
+26,5,Shuffling for Quicksort,What is the best way to shuffle an array at the start of quicksort?,2020-11-12 8:59,pAA8hhbaAf
+27,5,BST item deletion,How do you delete if it's not the min or max value?,2020-11-28 3:35,bCSKEQsp82
+28,4,Music Industry database Trouble,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?,2020-02-28 5:50,WJrWAidLZ5
+29,4,Java GUI,Does it matter if my GUI is ugly?,2020-04-01 0:30,tmt3aPs20s
+30,4,JDK version,Which JDK version should we be using?,2020-04-02 14:24,PiQvBSPut9
+31,4,Sample midterms,Are there sample midterm exams?,2020-04-10 13:02,tmt3aPs20s
+32,4,Sample final exams,Are there solutions for the sample final exams?,2020-05-01 2:08,PiQvBSPut9

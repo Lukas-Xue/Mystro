@@ -1,0 +1,75 @@
+﻿0,Assignment1,100,Use ArrayList to program a Blackjack game.,9/15/17 23:59,0
+1,Assignment2,100,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,9/28/17 23:59,0
+2,Assignment3,100,Use stacks and queues to solve a maze traversal problem.,10/8/17 23:59,0
+3,Assignment4,100,Implement bubble sort and a non-recursive version of mergesort.,10/20/17 23:59,0
+4,Midterm1,60,First midterm of the the course.,10/24/17 8:30,0
+5,Assignment5,100,Implement a hash table to count the number of times a word appears in a document.,11/14/17 23:59,0
+6,Midterm2,60,Second midterm of the course,11/21/17 8:30,0
+7,Final Project,150,Use a binary search tree to find Twitter Contents,12/6/17 11:59,0
+8,Bonus Quiz,10,Solve some algorithm analysis questions,12/8/17 23:59,0
+9,Final Exam,100,Last exam!,12/13/17 10:00,0
+10,Assignment1,100,Use ArrayList to program a Blackjack game.,9/13/18 23:59,1
+11,Assignment2,100,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,9/29/18 23:59,1
+12,Assignment3,100,Use stacks and queues to solve a maze traversal problem.,10/10/18 23:59,1
+13,Assignment4,100,Implement bubble sort and a non-recursive version of mergesort.,11/1/18 23:59,1
+14,Midterm1,60,First midterm of the the course.,10/22/18 8:30,1
+15,Assignment5,100,Implement a hash table to count the number of times a word appears in a document.,11/13/18 23:59,1
+16,Midterm2,60,Second midterm of the course,11/19/18 8:30,1
+17,Final Project,150,Use a binary search tree to find Twitter Contents,12/5/18 11:59,1
+18,Bonus Quiz,10,Solve some algorithm analysis questions,12/6/19 23:59,1
+19,Final Exam,100,Last exam!,12/8/19 8:00,1
+20,Homework1,100,Create an ER diagram for the Emory College University Database.,2/7/19 10:00,2
+21,Homework2,100,Design a relational data model for various ER models of the university,2/14/19 10:00,2
+22,Homework3,100,Formulate relational algebra queries,3/21/19 10:00,2
+23,Midterm,100,Midterm for the course,3/21/19 10:00,2
+24,Homework4,100,Answer some SQL queries on the supplier project database.,3/26/19 23:59,2
+25,Homework5,100,Answer more advanced queries on the supplier project database.,4/4/19 23:59,2
+26,Homework6,100,Write a JDBC application that can execute a SQL query on a selected database.,4/18/19 23:59,2
+27,Homework7,100,Develop a PHP application to query the supplier database,4/25/19 23:59,2
+28,Homework8,100,Perform 3NF normalization on a database,5/3/19 0:00,2
+29,Final Exam,100,Final exam for CS377,5/6/19 8:00,2
+30,Assignment1,100,Use ArrayList to program a Blackjack game,9/20/19 23:59,3
+31,Assignment2,100,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,10/2/19 23:59,3
+32,Assignment3,100,Use stacks and queues to solve a maze traversal problem.,10/10/19 23:59,3
+33,Assignment4,100,Implement bubble sort and a non-recursive version of mergesort.,10/24/19 23:59,3
+34,Midterm1,60,First midterm of the the course.,10/25/19 8:30,3
+35,Assignment5,100,Implement a hash table to count the number of times a word appears in a document.,11/13/19 23:59,3
+36,Midterm2,60,Second midterm of the course,11/21/19 8:30,3
+37,Final Project,150,Use a binary search tree to find Twitter Contents,12/8/19 11:59,3
+38,Bonus Quiz,10,Solve some algorithm analysis questions,12/8/19 23:59,3
+39,Final Exam,100,Last exam!,12/10/19 14:00,3
+40,Assignment1,100,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,2/9/20 23:59,4
+41,Assignment2,100,Write SQL queries to work with a music industry database.,2/29/20 23:59,4
+42,Assignment3,100,Develop a Java application to browse the music industry database,4/3/20 23:59,4
+43,Assignment4,100,Database design for the US congress database,5/2/20 23:59,4
+44,Midterm,100,Online midterm exam,4/15/20 8:30,4
+45,Final Exam,150,Online final exam,5/9/20 10:00,4
+46,Project1,100,Use OOP to implement different types of shapes,9/26/20 0:00,5
+47,Project2,100,Solve the famous Knights Tour problem using a stack,10/15/20 23:59,5
+48,Midterm,50,Online midterm for CS171,10/22/20 11:30,5
+49,Project3,100,Implement an Itunes playlist using a double-ended linked list,10/30/20 23:59,5
+50,Project4,100,Implement several sorting optimization algorithms,11/14/20 23:59,5
+51,Project5,100,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,11/29/20 23:59,5
+52,Final Exam,120,Online final exam,5/9/20 10:00,5
+53,Assignment1,100,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,2/9/21 23:59,6
+54,Assignment2,100,Write SQL queries to work with a music industry database.,2/27/21 23:59,6
+55,Assignment3,100,Develop a Java application to browse the music industry database,4/2/21 23:59,6
+56,Assignment4,100,Database design for the US congress database,4/28/21 23:59,6
+57,Midterm,100,Online midterm exam,4/15/21 8:30,6
+58,Final Exam,150,Online final exam,5/6/21 10:00,6
+59,Assignment1,100,Use OOP to implement different types of shapes,9/20/21 0:00,7
+60,Assignment2,100,Use ArrayList to program a Blackjack game,10/4/21 23:59,7
+61,Assignment3,100,Solve the famous Knights Tour problem using a stack,10/18/21 23:59,7
+62,Midterm,60,Midterm exam,10/20/21 13:00,7
+63,Assignment4,100,Implement an Itunes playlist using a double-ended linked list,11/4/21 23:59,7
+64,Assignment5,100,Implement several sorting optimization algorithms,11/24/21 23:59,7
+65,Assignment6,100,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,12/5/21 23:59,7
+66,Final Exam,100,final exam!,12/15/21 15:00,7
+67,Assignment1,100,Write relational algebra queries for two different database schemas.,9/22/21 23:59,8
+68,Assignment2,100,Formulate SQL queries for the Yelp Database,10/6/21 23:59,8
+69,Assignment3,100,Formulate advanced SQL queries for the Yelp Database,10/18/21 23:59,8
+70,Midterm,100,Midterm exam,10/20/21 13:00,8
+71,Assignment4,100,Formulate MongoDB queries for the Yelp database,11/5/21 23:59,8
+72,Assignment5,100,Database design questions.,11/19/19 23:59,8
+73,Final Project,200,Develop a learning management system using PHP!,12/7/21 23:59,8
+74,Final Exam,200,final exam!,12/15/21 8:00,8
