@@ -126,7 +126,7 @@
                 while($row_qa = mysqli_fetch_assoc($result_qa)){
                     $tag_name = $row_qa['tag'];
                     $value = $row_qa['tag_id'];
-                    print("<input type=\"checkbox\" name=\"tag[]\" value=\"$value\" onclick=\"onclickhandler()\" class=\"tag\">$tag_name<br>");
+                    print("<input type=\"checkbox\" name=\"tag[]\" value=\"$value\" onclick=\"onclickhandler()\" class=\"tag\" checked>$tag_name<br>");
                 }
             }
             ?>

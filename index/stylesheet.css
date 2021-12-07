@@ -230,10 +230,6 @@ select.class {
     max-width: 100%;
 }
 
-.hidden {
-    display: none;
-}
-
 .label {
     color: white;
     padding-left: 20px;
